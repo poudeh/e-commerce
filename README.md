@@ -1,4 +1,5 @@
 # E-commerce site using react description
+<span>after installing packages use  npm run dev to run the project.</span>
 <ul>
   <li>Component base</li>
   <li>Using clean Code</li>
