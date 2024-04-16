@@ -1,3 +1,8 @@
+## Deploy_Link:
+https://my-ecommerce.liara.run
+
+
+
 # E-commerce site using react description
 <span>after installing packages use  npm run dev to run the project.</span>
 <ul>
